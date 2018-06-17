@@ -27,15 +27,15 @@ class App extends Component {
           </div>
         </div>
         <AboutMe />
-        <div className="header-image empty-div is-flex-mobile"></div>
+        <div className="header-image empty-div is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd"></div>
         <Education />
-        <div className="header-image empty-div is-flex-mobile"></div>
+        <div className="header-image empty-div is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd"></div>
         <Skills2 id="skills"/>
-        <div className="header-image empty-div is-flex-mobile"></div>
+        <div className="header-image empty-div is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd"></div>
         <Projects />
-        <div className="header-image empty-div is-flex-mobile"></div>
+        <div className="header-image empty-div is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd"></div>
         <Experience />
-        <div className="header-image empty-div is-flex-mobile"></div>
+        <div className="header-image empty-div is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd"></div>
         <Contact />
         <Footer/>
         </div>
