@@ -5,7 +5,7 @@ import './skills.css';
 class Skills2 extends Component {
   render() {
     return (
-        <div className="hero native-js skills" id="skills">
+        <div className="hero native-js skills is-flex-mobile" id="skills">
             <div className="hero-body">
             <div className="contanier">
             
