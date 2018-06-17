@@ -1,0 +1,33 @@
+.skills ul {
+
+    line-height: 35px;
+}
+
+.block {
+    display: block;
+}
+
+.skill-group {
+    text-align: left;
+    
+}
+
+.margin-right {
+    margin-right: 5px;
+}
+
+.level > .columns > .column {
+
+    padding: 0.90rem;
+}
+.font {
+    font-family: 'Shadows Into Light Two', cursive;
+     font-family:'El Messiri', sans-serif;
+    }
+    .button {
+        background-color: #2c0a2d;
+    }
+    .topic {
+        background-color: #f55e424a;
+    }
+    
