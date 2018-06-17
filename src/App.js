@@ -19,7 +19,7 @@ class App extends Component {
           <div className="hero-body header-image is-flex-mobile">
             <div className="">
               <div className="title is-header font is-flex-mobile">
-              My-Journey
+                My-Journey
               </div>
               <div className="font is-flex-mobile">Web Developer/Tester</div>
             </div>
