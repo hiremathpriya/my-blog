@@ -1,7 +1,8 @@
 
 .header-image {
      /*background-image: url("http://orig14.deviantart.net/7584/f/2015/181/2/7/flat_mountains_landscape_by_ggiuliafilippini-d8zdbco.jpg"); background-position: center center; background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-color: #999; */
-     background-image: url("../images/flat_mountains.jpg"); background-position: center center; background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-color: #999;
+     background-image: url("../images/flat_mountains.jpg"); background-size: cover; background-color: #999; background-position: center center; background-attachment: fixed;
+     /* background-position: center center; background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-color: #999; */
      /* background:linear-gradient(+25deg, #ffebe6, 30%, #ffebe6,30%, #ffebe6  55%) #ffebe6 */
  } 
  .native-js {
