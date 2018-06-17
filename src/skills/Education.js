@@ -15,44 +15,51 @@ class Education extends Component {
                         <div className="columns is-multiline">     
                             
                             <div className="column is-one-quarter skill-group">
-                                 <div className="button topic has-text-black font is-size-5">Web-Development</div>
+                                 <div className="button topic has-text-black font is-size-6 is-flex-mobile">Web-Development</div>
                              </div>                                
                              <div className="column is-three-quarters" >
-                                 <div className="button has-text-light font is-size-5">Enspiral Dev Academy Web Development Bootcamp</div>
+                                 <div className="button has-text-light font is-size-6 is-flex-mobile">EDA Web Development Bootcamp</div>
                              </div>
 
                              <div className="column is-one-quarter skill-group" >
-                                 <div className="button topic has-text-black font is-size-5">Testing</div>
+                                 <div className="button topic has-text-black font is-size-6 is-flex-mobile">Testing</div>
                              </div>
                              <div className="column is-three-quarters has-text-light">
-                                 <div className="button has-text-light margin-right font is-size-5" >ISTQB Certification</div>
-                                 <div className="button has-text-light margin-right font is-size-5">Diploma in Software Testing</div>
-                                 <div className="button has-text-light margin-right font is-size-5">Software Testing (Foundation)</div>
+                                 <div className="button has-text-light margin-right font is-size-6 is-flex-mobile" >ISTQB Certification</div><br/>
+                                
+                                 <div className="button has-text-light margin-right font is-size-6 is-flex-mobile">Diploma in Software Testing</div><br/>
+                                 
+                                 <div className="button has-text-light margin-right font is-size-6 is-flex-mobile">Software Testing (Foundation)</div>
+                                 
                              </div>
 
                             
                              <div className="column is-one-quarter skill-group">
-                                <div className="button topic has-text-black font is-size-5">Diplomas</div>
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Diplomas</div>
                             </div>
+                            
                             <div className="column is-three-quarters">
-                             <div className="button  margin-right has-text-light font is-size-5">Diploma in Hotel Management & Catering Technology</div>
-                                <div className="button  margin-right has-text-light font is-size-5">Diploma in Home Science</div>
+                             <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Dip.in Hotel Management & Catering Technology</div><br/>
+                             
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Diploma in Home Science</div>
+                            
                                 
                             </div>
 
                              <div className="column is-one-quarter skill-group">
-                                 <div className="button topic has-text-black font is-size-5">Degree</div>
+                                 <div className="button topic has-text-black font is-size-6 is-flex-mobile">Degree</div>
                              </div>
                              <div className="column is-three-quarters">
-                                 <div className="button  margin-right has-text-light font is-size-5">BA (Hons) Psychology + Travel & Tourism</div>
+                                 <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">BA (Hons) Psychology</div>
                                  
                              </div>  
                             
                              <div className="column is-one-quarter skill-group">
-                                 <div className="button topic has-text-black font is-size-5">Other-certificates</div>
-                             </div>                                     <div className="column is-three-quarters">
-                                 <div className="button has-text-light font is-size-5">Plant Protection Agri-Business Training Ltd</div>
-                                     <div className="button has-text-light font is-size-5">Producing safe food certification</div>
+                                 <div className="button topic has-text-black font is-size-6 is-flex-mobile">Other-certificates</div>
+                             </div> 
+                                    <div className="column is-three-quarters skill-group">
+                                 <div className="button has-text-light font is-size-6 is-flex-mobile">Plant Protection Agri-Business</div><br/>
+                                     <div className="button has-text-light font is-size-6 is-flex-mobile">Producing safe food</div>
                              </div>
                             
                          </div>

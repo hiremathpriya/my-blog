@@ -15,47 +15,47 @@ class Skills2 extends Component {
                         <div className="columns is-multiline">     
                             
                             <div className="column is-one-quarter skill-group">
-                                <div className="button topic has-text-black font is-size-5">Agile Methodologies</div>
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Agile Methodologies</div>
                             </div>                                
                             <div className="column is-three-quarters" >
-                                <div className="button has-text-light font is-size-5">Scrum</div>
+                                <div className="button has-text-light font is-size-6 is-flex-mobile">Scrum</div>
                             </div>
 
                             <div className="column is-one-quarter skill-group" >
-                                <div className="button topic has-text-black font is-size-5">Java Script</div>
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Java Script</div>
                             </div>
                             <div className="column is-three-quarters has-text-light">
-                                <div className="button has-text-light margin-right font is-size-5" >jQuery</div>
-                                <div className="button has-text-light margin-right font is-size-5">Bootstrap</div>
-                                <div className="button has-text-light margin-right font is-size-5">Bulma</div>
+                                <div className="button has-text-light margin-right font is-size-6 is-flex-mobile" >jQuery</div>
+                                <div className="button has-text-light margin-right font is-size-6 is-flex-mobile">Bootstrap</div>
+                                <div className="button has-text-light margin-right font is-size-6 is-flex-mobile">Bulma</div>
                             </div>
 
                             
                             <div className="column is-one-quarter skill-group">
-                                <div className="button topic has-text-black font is-size-5">Front End Technologies</div>
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Front End Technologies</div>
                             </div>
                             <div className="column is-three-quarters">
-                                <div className="button  margin-right has-text-light font is-size-5">Redux</div>
-                                <div className="button  margin-right has-text-light font is-size-5">HTML</div>
-                                <div className="button  margin-right has-text-light font is-size-5">CSS</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Redux</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">HTML</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">CSS</div>
                             </div>
 
                             <div className="column is-one-quarter skill-group">
-                                <div className="button topic has-text-black font is-size-5">Node JS</div>
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Node JS</div>
                             </div>
                             <div className="column is-three-quarters">
-                                <div className="button  margin-right has-text-light font is-size-5">Webpack</div>
-                                <div className="button  margin-right has-text-light font is-size-5">Jest</div>
-                                <div className="button  margin-right has-text-light font is-size-5">Enzyme</div>
-                                <div className="button  margin-right has-text-light font is-size-5">Cypress</div>
-                                <div className="button  margin-right has-text-light font is-size-5">VS code</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Webpack</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Jest</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Enzyme</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Cypress</div>
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">VS code</div>
                             </div>  
                             
                             <div className="column is-one-quarter skill-group">
-                                <div className="button topic has-text-black font is-size-5">Source Control</div>
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Source Control</div>
                             </div>        
                             <div className="column is-three-quarters">
-                                <div className="button has-text-light font is-size-5">Git</div>
+                                <div className="button has-text-light font is-size-6 is-flex-mobile">Git</div>
                             </div>
                             
                         </div>
@@ -72,9 +72,3 @@ class Skills2 extends Component {
 
 export default Skills2;
 
-// "Methodologies	Agile Methodologies
-// Front End	jQuery, Bootstrap, Bulma, React, Redux, HTML, CSS, NodeJS, webpack
-// Testing	Jest, Enzyme, Cypress 
-// Tools	VS Code
-// Version Control	git
-// "

@@ -12,20 +12,20 @@ import Experience from './Experience';
 class App extends Component {
   render() {
     return (
-      <div className="contanier is-fullhd">
-      <div className="notification">
+      <div className="contanier is-flex-mobile">
+      <div>
         <Navbar />
-        <section className=" hero is-large">
-          <div className="hero-body header-image">
+        <div className=" hero is-large is-flex-mobile">
+          <div className="hero-body header-image is-flex-mobile">
             <div className="">
-              <h1 className="title is-header font">
-              One-Mum-Her-Journey
-              </h1>
-              <h2 className="font">Web Developer/Tester</h2>
+              <div className="title is-header font is-flex-mobile">
+              My-Journey
+              </div>
+              <div className="font is-flex-mobile">Web Developer/Tester</div>
             </div>
            
           </div>
-        </section>
+        </div>
         <AboutMe />
         <div className="header-image empty-div"></div>
         <Education />

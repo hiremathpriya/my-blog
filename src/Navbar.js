@@ -5,30 +5,26 @@ class Navbar extends Component {
     return (
 
         <div>
-            <nav className="navbar navigation is-fixed-top"  aria-label="main navigation">
-                <div className="  navbar-brand">
-                    <a className="navbar-item">
-                        <h1 className="has-text-white font">Priya</h1>
-                    </a>
-
-                    <div className="navbar-item has-text-right is-expanded">
-                        <div className="navbar-item has-text-white font">
+            <nav className="navbar navigation is-flex-mobile"  aria-label="main navigation">
+                <div className="is-flex-mobile">
+                     <div className="navbar-item has-text-right is-expanded">
+                        <div className="navbar-item font is-hoverable is-flex-mobile">
                         <a href="#Projects">Projects</a> 
                         </div>
-                        <div className="navbar-item has-text-white font">    
+                        <div className="navbar-item font is-flex-mobile">    
                         <a href="#AboutMe">About Me</a> 
                         </div>
-                        <div className="navbar-item has-text-white font">    
+                        <div className="navbar-item font is-flex-mobile">    
                             <a href="#skills">Skills</a>
                         </div>
                         
-                        <div className="navbar-item has-text-white font">    
+                        <div className="navbar-item font is-flex-mobile">    
                             <a href="#Experience">Experience</a>
                         </div>
-                        <div className="navbar-item has-text-white font">    
+                        <div className="navbar-item font is-flex-mobile">    
                             <a href="https://hiremathpriya.github.io/">Phase-0</a>
                         </div>
-                        <div className="navbar-menu has-text-white font">    
+                        <div className="navbar-menu font is-flex-mobile">    
                             <a href="#Contact">Get In Touch</a>
                         </div>
                     </div>    
