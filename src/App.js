@@ -12,16 +12,16 @@ import Experience from './Experience';
 class App extends Component {
   render() {
     return (
-      <div className="contanier is-flex-mobile">
+      <div className="contanier ">
       <div>
         <Navbar />
-        <div className=" hero is-large is-flex-mobile">
+        <div className="hero is-large is-flex-mobile">
           <div className="hero-body header-image is-flex-mobile">
             <div className="">
-              <div className="title is-header font is-flex-mobile">
-                My-Journey
+              <div className="title is-header font is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">My-Journey</div>
+                
               </div>
-              <div className="font is-flex-mobile">Web Developer/Tester</div>
+              <div className="subtitle font is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">Web Developer/Tester</div>
             </div>
            
           </div>
@@ -39,7 +39,7 @@ class App extends Component {
         <Contact />
         <Footer/>
         </div>
-      </div>
+      
      
     );
   }
