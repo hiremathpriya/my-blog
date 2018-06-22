@@ -18,7 +18,7 @@ class App extends Component {
         <div className="hero is-large is-flex-mobile">
           <div className="hero-body header-image is-flex-mobile">
             <div className="">
-              <div className="title is-header is-flex-mobile font is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">My-Journey</div>
+              <div className="title is-header font is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">My-Journey</div>
                 
               </div>
               <div className="subtitle font is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">Web Developer/Tester</div>

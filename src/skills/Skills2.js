@@ -35,6 +35,7 @@ class Skills2 extends Component {
                                 <div className="button topic has-text-black font is-size-6 is-flex-mobile">Front End Technologies</div>
                             </div>
                             <div className="column is-three-quarters">
+                                <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">React</div>
                                 <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Redux</div>
                                 <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">HTML</div>
                                 <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">CSS</div>
