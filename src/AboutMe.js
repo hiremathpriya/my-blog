@@ -8,7 +8,7 @@ class AboutMe extends Component {
         <div className=" hero  native-js is-medium" id="AboutMe">
           <div className="hero-body">
             <div className="columns is-flex-mobile is-centered">
-              <img className="image is-128x128" src="../../images/priyaBlackWhite.jpg" alt="authorImage" />
+              <img className="image is-128x128" src="../../images/DSC_0317.jpg" alt="authorImage" />
             </div>
               <h1 className="has-text-Black is-bold title font has-text-centered">Nice to meet you,</h1>
                 <h2 className="has-text-Black-bold has-text-left font is-size-5"> Hi! I am Priya Hiremath, I am a web developer/Tester who is on this new tech journey.
