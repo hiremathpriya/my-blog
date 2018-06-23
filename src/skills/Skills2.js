@@ -58,6 +58,12 @@ class Skills2 extends Component {
                             <div className="column is-three-quarters">
                                 <div className="button has-text-light font is-size-6 is-flex-mobile">Git</div>
                             </div>
+                            <div className="column is-one-quarter skill-group">
+                                <div className="button topic has-text-black font is-size-6 is-flex-mobile">Data Base</div>
+                            </div>
+                            <div className="column is-three-quarters">
+                            <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Sqlite3</div>
+                            </div>
                             
                         </div>
 

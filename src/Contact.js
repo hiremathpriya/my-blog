@@ -19,7 +19,7 @@ class Contact extends Component {
             
             </div>
 
-            <div className="has-text-centered">P| 0212130586</div>
+            
 
             <div className="has-text-centered">
                  <a href="https://github.com/hiremathpriya"><FontAwesome name="github"/></a>
@@ -28,6 +28,7 @@ class Contact extends Component {
                  <i className="fab fa-linkedin-in"></i> 
                 <a href="https://www.linkedin.com/in/priya-hiremath-06794b101/"><FontAwesome name="linkedin"/></a>
                 </div>
+                <div className="has-text-centered">P| 0212130586</div>
             
             <div className="has-text-centered">Little things about me</div>
             <div className="has-text-centered">I believe "If you dare to dream, then you have all that it takes to bring that into a reality"<br/>
