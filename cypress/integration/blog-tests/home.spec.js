@@ -3,7 +3,7 @@ describe('home page renders proeprly', () => {
         cy.visit('https://one-mum-her-journey.herokuapp.com/')
         cy.contains('My-Journey')
     })
-})
+    })
 context('Home page', () => {
     beforeEach(() => {
       cy.visit('https://one-mum-her-journey.herokuapp.com/')
@@ -17,7 +17,7 @@ context('Home page', () => {
     it('checks the back to top button',() => {
         cy.get('.is-current', ()=> {
             cy.click()
-        })
+    })
 
     })
     it('finds the Projects', () => {
@@ -27,9 +27,8 @@ context('Home page', () => {
  it('finds  the Contacts', () => {
         cy.contains('Email', () => {
         cy.click()
-        
-        
-        })
+    })
     
-})
-})
+    })
+    
+    })
