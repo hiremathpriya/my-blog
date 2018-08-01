@@ -34,6 +34,7 @@ class Contact extends Component {
             <div className="has-text-centered">I believe "If you dare to dream, then you have all that it takes to bring that into a reality"<br/>
                 I am passionate about my learning and this journey into the tech world.<br/> My favorite things are to spend time with my family, cook, travel and play Badminton.
             </div> 
+            <div className="is-current has-text-centered"><a href='/#'>^</a></div>
         </div>
      </div>
      </div>

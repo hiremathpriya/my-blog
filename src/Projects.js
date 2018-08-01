@@ -15,7 +15,9 @@ class Projects extends Component {
                           <div className="has-text-Black-bold has-text-centered font is-size-5"><a href="https://embracing-blue.herokuapp.com/#/"> 'Embracing-blue' Final group Project- Web development bootcamp</a></div>
                           <div className="has-text-Black-bold has-text-centered font is-size-5"><a href="http://lostfoundpets.herokuapp.com/#/"> 'Lost and found' Semi-Final group Project- Web development bootcamp</a></div>
                           <div className="has-text-Black-bold has-text-centered font is-size-5"><a href="https://cooking-mums.herokuapp.com/"> 'Cooking-mums' Personal Project- Web development bootcamp work in progess</a></div>
+                          
                     </div>
+                    <div className="is-current has-text-centered"><a href='/#'>^</a></div>
                  </div>
             </div>
         

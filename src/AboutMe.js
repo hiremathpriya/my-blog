@@ -16,7 +16,9 @@ class AboutMe extends Component {
                   I love meeting people and learning about their stories through respect and empathy. I also love to share my experience as an Individual, a Mum and as a Chef.
                   My inspiration to get into the tech world are my kids. In this 'DIGI' world everything revolves around the technology and I want to be a part of that.  
               </h2>
+              <div className="is-current has-text-centered"><a href='/#'>^</a></div>
             </div>
+            
         </div>
        
       

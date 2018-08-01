@@ -63,11 +63,15 @@ class Skills2 extends Component {
                             </div>
                             <div className="column is-three-quarters">
                             <div className="button  margin-right has-text-light font is-size-6 is-flex-mobile">Sqlite3</div>
+                            
                             </div>
                             
+                            
                         </div>
+                        
 
                 </div>
+                <div className="is-current has-text-centered"><a href='/#'>^</a></div>
                             
             </div>
             </div>

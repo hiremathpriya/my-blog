@@ -37,8 +37,11 @@ class Experience extends Component {
               Software testing came up as a good option that will provide the team work
               </div>
              </div> 
-            
+             <div className="is-current"><a href='/#'>^</a></div>
           </div>
+          <div className="is-current has-text-centered"><a href='/#'>^</a></div>
+          
+          
           </div>
        
       

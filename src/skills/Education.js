@@ -63,11 +63,15 @@ class Education extends Component {
                                     <div className="column is-three-quarters skill-group">
                                  <div className="button has-text-light font is-size-6 is-flex-mobile">Plant Protection Agri-Business</div>
                                      <div className="button has-text-light font is-size-6 is-flex-mobile">Producing safe food</div>
+                                     
                              </div>
                             
+                            
                          </div>
+                        
 
                  </div>
+                 <div className="is-current has-text-centered"><a href='/#'>^</a></div>
                             
              </div>
              </div>
